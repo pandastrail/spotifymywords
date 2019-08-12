@@ -1,4 +1,4 @@
-# spotifymywords
+# SpotifymyWords
 A gift full of our words
 
 At a first stage, this project does two tasks, extract a list of songs from a given [Spotify](https://developer.spotify.com/)
@@ -12,4 +12,4 @@ At a second stage it intends to comprehensively analyze and visualize both, the 
 
 ## Analysis & Visual
 
-## SpotifymyWords App
+## An Open Source App
